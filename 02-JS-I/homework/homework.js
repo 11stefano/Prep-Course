@@ -1,10 +1,10 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = "hola";
+const nuevaString = "hola stefanno";
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = "4";
+const nuevoNum = "3";
 
 // Crea una variable booleana:
 const nuevoBool = "true";
@@ -42,7 +42,7 @@ function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
   
-}return (x + y );
+}return (x - y );
 
 function multiplica(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
