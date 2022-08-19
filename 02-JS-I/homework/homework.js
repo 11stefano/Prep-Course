@@ -1,7 +1,7 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = "hola stefanno";
+const nuevaString = "hola stefano";
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = 3;
@@ -29,26 +29,26 @@ function devolverString(str) {
   // "Return" la string provista: str
   // Tu código:
   
-}return str;
+} return str;
 
 function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
   
-}return (x + y);
+} return (x + y);
 
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
   
-}return (x - y );
-
+} return (x - y );
+ 
 function multiplica(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código:
   
-}return (x * y);
+} return (x * y);
 
 function divide(x, y) {
   // Divide "x" entre "y" y devuelve el valor
