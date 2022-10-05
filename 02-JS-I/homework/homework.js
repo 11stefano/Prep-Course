@@ -31,24 +31,26 @@ function devolverString(str) {
   
   return str; } 
 
-function suma(x, y) {
+function suma(x, y) 
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
   
-  return (x + y); }
+  var suma= x + y
+  return  suma=x + y
 
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
   
-  return (x- y ); } 
+  var resta = (x- y ); } 
+  return resta
  
 function multiplica(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código:
-  
-  return (x * y); }
+  var multiplicacion = x * y
+  return multiplicacion; }
 
 function divide(x, y) {
   // Divide "x" entre "y" y devuelve el valor
@@ -101,15 +103,17 @@ function esPar(num) {
   // Devuelve "true" si "num" es par
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (num) return true 
+  if (num) return true;
+
 }
 
 function esImpar(num) {
   // Devuelve "true" si "num" es impar
   // De lo contrario, devuelve "false"
   // Tu código:
-  
+
 }
+
 
 function elevarAlCuadrado(num) {
   // Devuelve el valor de "num" elevado al cuadrado
@@ -127,7 +131,7 @@ function elevarAlCubo(num) {
 function elevar(num, exponent) {
   // Devuelve el valor de "num" elevado al exponente dado en "exponent"
   // Tu código:
-  
+return
   
 }
 
