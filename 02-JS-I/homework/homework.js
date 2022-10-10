@@ -290,14 +290,14 @@ function esVocal(letra){
   // output si esta la a,e,i,o,u => es vocal
   // en caso de que mas de un caracter en letra "Dato incorrecto"
   
-  if(letra.length> 1 ){
-  return "Dato Incorrecto";
+  if(letra.length > 1 ){
+  return "Dato incorrecto";
   }
-  else if (letra ==="a"|| letra === "e" || letra === "i" || letra === "o" || letra === "u")
+  if(letra ==="a"|| letra === "e" || letra === "i" || letra === "o" || letra === "u")
   {
-    return "esVocal"
+    return "Es vocal"
   }
-
+    return "Dato incorrecto"
 
 }
 
